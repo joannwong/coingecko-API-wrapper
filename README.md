@@ -3,11 +3,11 @@
 This tool is designed to facilitate the retrieval and analysis of cryptocurrency data using the CoinGecko API. It provides a simple interface to extract data for specific cryptocurrencies within a given time range and generate line plots for visual analysis.
 
 #### Features
-1. Retrieve cryptocurrency data: Use the get_crypto_data function to retrieve data for specific cryptocurrencies, including prices, market cap, and total volume within a specified time range.
+1. Retrieve cryptocurrency data: use the get_crypto_data function to retrieve data for specific cryptocurrencies, including prices, market cap, and total volume within a specified time range.
 
-2. Generate line plots for single currency: Utilize the generate_line_plot_single_currency function to generate separate line plots for price, market cap, and total volume against a timeframe for a single currency.
+2. Generate line plots for single currency: utilize the generate_line_plot_single_currency function to generate separate line plots for price, market cap, and total volume against a timeframe for a single currency.
 
-3. Generate line plots for multiple currencies: Use the generate_line_plots_multiple_currencies function to generate line plots for multiple currencies, either combined into a single graph or displayed as separate line plots.
+3. Generate line plots for multiple currencies: use the generate_line_plots_multiple_currencies function to generate line plots for multiple currencies, either combined into a single graph or displayed as separate line plots.
 
 #### Prerequisites
 Python 3.8 or above  
